@@ -2,9 +2,7 @@ ACI mock listener — quick start
 ================================
 
 Goal: capture and answer the HTTP/HTTPS calls Ace Combat Infinity makes to
-dev-wind.siliconstudio.co.jp so the game gets past the "Failed to connect to
-PSN" dialog.
-
+dev-wind.siliconstudio.co.jp so the game gets past all the server checks
 ONE-TIME SETUP
 --------------
 
