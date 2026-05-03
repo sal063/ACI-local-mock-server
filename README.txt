@@ -46,10 +46,6 @@ EACH TIME YOU PLAY
 4. Boot ACI in RPCS3. Watch the listener console — every request the game
    makes is logged to the console and to requests.log.
 
-5. After the run, share / read requests.log to see what the game asked for
-   and what it sent. We then iterate STUB_RESPONSES in aci_listener.py to
-   return realistic data.
-
 
 If RPCS3 logs an SSL/cert error
 -------------------------------
